@@ -29,6 +29,8 @@ Furthermore, we also need to save bandwidth so apply automatic quality optimisat
 Sample output for the transformed images:
 
 Output of the first image:
+
+
 ![First image output](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/photo-1495366691023-cc4eadcc2d7e_eolq2v_rzaekf.webp)
 
 Output of the second image with grey bag:
