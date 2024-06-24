@@ -17,10 +17,10 @@ Please note that for this task, you won’t need a Cloudinary account.
 The requirement is simple. You have the following image URLs that you have to change, in order to achieve the sample outputs.
 
 1st image:
-![First Image](https://res.cloudinary.com/balazs/image/upload/photo-1495366691023-cc4eadcc2d7e_eolq2v.webp)
+https://res.cloudinary.com/balazs/image/upload/photo-1495366691023-cc4eadcc2d7e_eolq2v.webp
 
 2nd image: 
-![Second Image](https://res.cloudinary.com/balazs/image/upload/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3.jpg)
+https://res.cloudinary.com/balazs/image/upload/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3.jpg
 
 For the first image we need to create a crop around the face of the person in the center, in a 400X400 square, and for the second image we need to recolour the bag, as the company sells three versions but there won’t be time to take photos of those so you must use this one image. (The recolour should be done to both green and gray colors).
 
