@@ -33,10 +33,10 @@ Output of the first image:
 ![First image output](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/photo-1495366691023-cc4eadcc2d7e_eolq2v_rzaekf.webp)
 
 Output of the second image with grey bag:
-![Second Image grey bag](https://res.cloudinary.com/balazs/image/upload/v1713441347/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3_iyq7a6.jpg)
+![Second Image grey bag](https://res.cloudinary.com/balazs/image/upload/c_fit,w_400,h_400/v1713441347/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3_iyq7a6.jpg)
 
 Output of the second image with green bag:
-![Second image green bag](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3-2_dppbes.jpg)
+![Second image green bag](https://res.cloudinary.com/balazs/image/upload/c_fit,w_400,h_400/v1713441346/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3-2_dppbes.jpg)
 
 Useful links:
 - [Cropping and resizing](https://cloudinary.com/documentation/resizing_and_cropping)
