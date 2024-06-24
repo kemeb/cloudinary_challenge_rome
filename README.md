@@ -6,7 +6,38 @@ After a handful of meetings, the main issues have been gathered which are:
 - The marketing and design team are overloaded with work to create “web ready’ images - they are tasked with resizing and cropping
 - The images are not served in modern formats for the users
 - Sometimes the design team needs to create a crop around a particular object or recolour images and they also struggle with automation. For the purposes of this exercise you need to create a crop around the person’s face and for the second image, you will need to recolour the bag. (Currently your company sells brown, black and orange bags)
+
 After doing your research diligently you find a tool called Cloudinary which seems to be able to tick all the necessary boxes based on the requirements set out above.
 Now your task is to test out Cloudinary and present your findings to the engineering managers in hopes that this solution will be the one! 
+
 Please note that for this task, you won’t need a Cloudinary account.
+
+## Apply the necessary transformations and optimisations
+
+The requirement is simple. You have the following image URLs that you have to change, in order to achieve the sample outputs.
+
+1st image:
+![First Image](https://res.cloudinary.com/balazs/image/upload/photo-1495366691023-cc4eadcc2d7e_eolq2v.webp)
+
+2nd image: 
+![Second Image](https://res.cloudinary.com/balazs/image/upload/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3.jpg)
+
+For the first image we need to create a crop around the face of the person in the center, in a 400X400 square, and for the second image we need to recolour the bag, as the company sells three versions but there won’t be time to take photos of those so you must use this one image. (The recolour should be done to both green and gray colors).
+
+Furthermore, we also need to save bandwidth so apply automatic quality optimisation and make sure to serve the image up in a next-gen image format.
+
+Sample output for the transformed images:
+
+Output of the first image:
+![First image output](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/photo-1495366691023-cc4eadcc2d7e_eolq2v_rzaekf.webp)
+
+Output of the second image with grey bag:
+![Second Image grey bag](https://res.cloudinary.com/balazs/image/upload/v1713441347/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3_iyq7a6.jpg)
+
+Output of the second image with green bag:
+![Second image green bag](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3-2_dppbes.jpg)
+
+
+
+
 
