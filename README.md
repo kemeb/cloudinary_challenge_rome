@@ -30,7 +30,6 @@ Sample output for the transformed images:
 
 Output of the first image:
 
-
 ![First image output](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/photo-1495366691023-cc4eadcc2d7e_eolq2v_rzaekf.webp)
 
 Output of the second image with grey bag:
@@ -38,6 +37,17 @@ Output of the second image with grey bag:
 
 Output of the second image with green bag:
 ![Second image green bag](https://res.cloudinary.com/balazs/image/upload/v1713441346/Cloudinary%20Challenge/gabrielle-henderson-IuGQoHIp8LY-unsplash_xv4jr3-2_dppbes.jpg)
+
+Useful links:
+- [Cropping and resizing](https://cloudinary.com/documentation/resizing_and_cropping)
+- [Cropping position](https://cloudinary.com/documentation/resizing_and_cropping#example_3_crop_an_image_to_keep_only_the_face)
+- [Recolor](https://cloudinary.com/documentation/effects_and_artistic_enhancements#generative_recolor)
+- [Optimization](https://cloudinary.com/documentation/image_optimization)
+
+## Submit your work
+
+Go to [this form](https://forms.gle/XAJEgTvKL4tjKh9w8) and add the transformed URLs. Please note that you need to submit both URLs in order to successfully complete the challenge and you need to make sure to add all transformations and optimisations to the final URL so please double check your work before submitting the form
+
 
 
 
